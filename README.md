@@ -5,6 +5,8 @@
 
 Download or clone repo
 > cd bader-vuetest
+
 > npm install
+
 > npm run dev
 
