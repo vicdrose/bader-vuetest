@@ -4,7 +4,7 @@
 ## Documentation
 
 Download or clone repo
-> cd bader-vuetest
+> cd bader-vuetest-main
 
 > npm install
 
